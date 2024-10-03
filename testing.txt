@@ -1,1 +1,6 @@
 // Implementacion de testing file
+
+/* function TestingInicio() {
+    console.log("Testing...")
+}
+*/
